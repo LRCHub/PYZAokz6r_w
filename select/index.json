@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Cheshire",
+  "base_artist": "ITZY",
+  "createdAt": "2026-02-16T13:27:31.643926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock In A Hard Place (Cheshire Cat)",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/01_Rock_In_A_Hard_Place_(Cheshire_Cat)_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheshire Smile",
+      "artist": "VERIDIA",
+      "has_synced": true,
+      "path": "select/02_Cheshire_Smile_VERIDIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheshire",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/03_Cheshire_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheshire Grin",
+      "artist": "Shiv-r",
+      "has_synced": false,
+      "path": "select/04_Cheshire_Grin_Shiv-r.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheshire County",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/05_Cheshire_County_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheshire -Japanese ver.-",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/06_Cheshire_-Japanese_ver.-_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheshire -Japanese ver.- (Japanese ver.)",
+      "artist": "Itzy",
+      "has_synced": true,
+      "path": "select/07_Cheshire_-Japanese_ver.-_(Japanese_ver.)_Itzy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheshire Kitten (We're All Mad Here)",
+      "artist": "S. J. Tucker",
+      "has_synced": true,
+      "path": "select/08_Cheshire_Kitten_(We're_All_Mad_Here)_S._J._Tucker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Queen (Remixed By The Cheshire Cat)",
+      "artist": "Funker Vogt",
+      "has_synced": false,
+      "path": "select/09_Red_Queen_(Remixed_By_The_Cheshire_Cat)_Funker_Vogt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheshire",
+      "artist": "ITZY (있지)",
+      "has_synced": true,
+      "path": "select/10_Cheshire_ITZY_(있지).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheshire",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/11_Cheshire_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock In A Hard Place (Cheshire Cat)",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/12_Rock_In_A_Hard_Place_(Cheshire_Cat)_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock In A Hard Place (Cheshire Cat) (Album Version)",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/13_Rock_In_A_Hard_Place_(Cheshire_Cat)_(Album_Version)_Aerosmith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheshire",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Cheshire_ITZY.txt"
+    }
+  ]
+}
